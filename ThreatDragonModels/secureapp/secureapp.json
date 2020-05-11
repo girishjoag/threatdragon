@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "secureapp",
-    "owner": "girish"
+    "owner": "girish",
+    "description": "3 tier java application"
   },
   "detail": {
     "contributors": [],
